@@ -45,7 +45,7 @@
       "repoUrl": "https://github.com/catchroom/BE_Chat",
       "isTeam": true,
       "period": ["2023. 12", "2024. 01"],
-      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Mongo DB", "Web Socket", "Github", "AWS"]
+      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Mongo DB", "Web Socket", "AWS"]
     }
   ],
 
