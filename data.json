@@ -35,7 +35,7 @@
       "repoUrl": "https://github.com/TR1LL1ON/TR1LL1ON_BE",
       "isTeam": true,
       "period": ["2023. 11", "2023. 11"],
-      "stack": ["Java 17", "Spring boot", "MySql", "Github"]
+      "stack": ["Java 17", "Spring boot", "MySql", "Github", "AWS"]
     },
     {
       "id": 1,
@@ -45,7 +45,7 @@
       "repoUrl": "https://github.com/catchroom/BE_Chat",
       "isTeam": true,
       "period": ["2023. 12", "2024. 01"],
-      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Web Socket", "Github"]
+      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Mongo DB", "Web Socket", "Github", "AWS"]
     }
   ],
 
