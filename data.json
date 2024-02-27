@@ -30,23 +30,22 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "name": "트릴리언",
+      "description": "한국 곳곳의 숙소를 구매할 수 있어요. 숙박 구매 서비스 플랫폼",
+      "repoUrl": "https://github.com/TR1LL1ON/TR1LL1ON_BE",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2023. 11", "2023. 11"],
+      "stack": ["Java 17", "Spring boot", "MySql", "Github"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
-      "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "name": "캐치룸",
+      "description": "무료 취소가 불가능한 야놀자 숙박권을 간편하게 거래할 수 있어요. \n숙박 거래 양도 서비스 플랫폼",
+      "webUrl": "https://dev.dac2k835awf4h.amplifyapp.com/home",
+      "repoUrl": "https://github.com/catchroom/BE_Chat",
+      "isTeam": true,
+      "period": ["2023. 12", "2024. 01"],
+      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Web Socket", "Github"]
     }
   ],
 
@@ -68,16 +67,17 @@
   "education": [
     {
       "id": 0,
-      "name": "동덕여자대학교 컴퓨터학과",
-      "period": ["2018. 03", "2023. 02"],
-      "description": "컴퓨터학과 심화 전공"
-    },
-    {
-      "id": 1,
       "name": "야놀자X패스트캠퍼스 백엔드 부트캠프",
       "period": ["2023. 07", "2024. 01"],
       "description": "야놀자 기업 연계 백엔드 부트캠프 우수 수료"
+    },
+    {
+      "id": 1,
+      "name": "동덕여자대학교 컴퓨터학과",
+      "period": ["2018. 03", "2023. 02"],
+      "description": "컴퓨터학과 심화 전공"
     }
+    
   ],
 
   "certificate": [
