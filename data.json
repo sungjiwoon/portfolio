@@ -44,15 +44,6 @@
       "repoUrl": "https://github.com/catchroom/BE_Chat",
       "isTeam": true,
       "period": ["2023. 12", "2024. 01"],
-      "stack": ["Java 17", "Spring boot", "MySql", "Redis", "Mongo DB", "Web Socket", "AWS"]
-    },
-    {
-      "id": 2,
-      "name": "만원의 행복",
-      "description": "왜 지도에는 가격순 가게를 알려주는 기능이 없을까? 라는 생각에서 시작했어요! \n내 주변 착한 가격 업소를 알려주는 웹 서비스",
-      "repoUrl": "https://github.com/happymanwon/Backend",
-      "isTeam": true,
-      "period": ["2023. 10", "현재 진행 중"],
       "stack": ["Java 17", "Spring boot", "MySql", "Github", "AWS"]
     }
   ],
